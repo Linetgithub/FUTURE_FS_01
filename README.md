@@ -1,2 +1,2 @@
 # FUTURE_FS_01
-PERSONAL PORTFOLIO
+A simple and colorful personal prortfolio website using HTML, CSS and JavaScript.
