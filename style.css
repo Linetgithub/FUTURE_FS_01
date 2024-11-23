@@ -123,6 +123,7 @@ img {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: left;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: block;
 }
 
 .project-card:hover {
@@ -147,7 +148,7 @@ img {
 }
 
 .project-card a {
-    display: inline-block;
+    display: flex;
     margin: 10px;
     color: #007bff;
     text-decoration: none;
