@@ -21,7 +21,7 @@ darkModeStyles.innerHTML = `
       background-color: #555;
     }
     .dark-mode #about-me, .dark-mode #projects, .dark-mode #contact {
-      background-color: #444;
+      background-color: #fefafaff;
     }
   `;
 document.head.appendChild(darkModeStyles);

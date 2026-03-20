@@ -3,12 +3,12 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #1ce1d7;
+    background-color: rgb(225, 120, 199);
     color: #333;
 }
 
 header {
-    background-color: #267396;
+    background-color: #e679d7;
     box-shadow: 0px 2px 5px rgba(17, 95, 150, 0.1);
     padding: 10px 20px;
     display: flex;
@@ -99,7 +99,7 @@ img {
 
 #projects {
     padding: 50px 20px;
-    background-color: #1ce1d7;
+    background-color: #f4f9f9;
     text-align: center;
 }
 
@@ -116,7 +116,7 @@ img {
 }
 
 .project-card {
-    background: #0edbb9;
+    background: #871a70;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
@@ -144,7 +144,7 @@ img {
 
 .project-card p {
     padding: 0 10px;
-    color: #555;
+    color: #fffcfc;
 }
 
 .project-card a {
@@ -164,7 +164,7 @@ img {
     justify-content: space-between;
     align-items: center;
     padding: 50px 20px;
-    background-color: #b0adad;
+    background-color: #f9f6f9;
 }
 
 .hero-content {
